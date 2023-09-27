@@ -1,3 +1,4 @@
+
 num = input("Enter a number: ")
 lookup_table = {
     '0': 0,
